@@ -17,7 +17,7 @@
 ### Dominator Gun
 +++
 #### Video
-![Video](https://www.youtube.com/embed/E-hGtr92TSA?start=474&end=493&iv_load_policy=3)
+![Video](https://www.youtube.com/embed/E-hGtr92TSA?start=474&end=494&iv_load_policy=3)
 +++
 #### Beschreibung
 +++
