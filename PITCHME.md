@@ -19,10 +19,10 @@
 #### Videos
 +++
 ##### Aufnahme der Waffe 
-![Video](https://www.youtube.com/embed/E-hGtr92TSA?start=474&end=494&iv_load_policy=3)
+![Video](https://www.youtube.com/embed/rk7KivEwZVk?start=482&end=502&iv_load_policy=3)
 +++
 ##### Zielen mit der Waffe
-![Video](https://www.youtube.com/embed/E-hGtr92TSA?start=682&end=691&iv_load_policy=3)
+![Video](https://www.youtube.com/embed/rk7KivEwZVk?start=689&end=698&iv_load_policy=3)
 +++
 #### Beschreibung
 +++
@@ -73,3 +73,44 @@ Waffenregister                      | Falsche Bewertung    |
 Reduktion der Kriminalität          | Nicht vollautomatisch|  
 Missnutzen der Waffe nicht möglich  | Ethisch nur schwer vertrettbar |  
 Paralyzer-Mode                      | Datenschutz           |
+
+---
+### Smart Home Assistant
++++
+#### Videos
++++
+##### Wecker
+![Video](https://www.youtube.com/embed/qmfknwTed6c?start=27&end=46&iv_load_policy=3)
++++
+##### Hologramme für Möbel
+![Video](https://www.youtube.com/embed/qmfknwTed6c?start=180&end=186&iv_load_policy=3)
++++
+#### Beschreibung
++++
+##### Tasks
+- Aktivierung Weckergesteuert, oder wenn man in das Haus zurückkehrt
+- Termine auflisten
+- Wetterbericht zeigen
+- Auflisten von Kalorieneinnahme des gestrigen Tages, darauf basierend Essen vorschlagen und zubereiten
+- Raum holographisch verändern
+- Deaktivierung, wenn man das Haus verlässt, vermutlich auch zeitlich einstellbar
++++
+##### Gerätebschreibung
++++
+- Fliegendes Hologram, das einem folgt
+- Aussehen kann verändert werden, in diesem Fall als Quallenartiges Maskottchen
++++
+##### Techniken
++++
+- Alles sprachgesteuert. Man kann es sich als fliegende Alexa vorstellen, nur intelligenter und mit mehr Möglichkeiten/"Macht" (Essenszubereitung, Veränderung des Raumes, Hologramme, beweglich)  
+![image](https://user-images.githubusercontent.com/23435018/38270619-36e36486-3784-11e8-9642-3c127e167740.png)
++++
+##### Überlegungen und Bewertung
++++
+Kriterium   | Bewertung     |  
+------------|:-------------:|  
+Ergonomie   | @fa[check]    |  
+Usability   | @fa[check]    |  
+UX          | @fa[check]    |  
+Zweck       | @fa[check]    | 
+
