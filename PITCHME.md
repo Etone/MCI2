@@ -59,9 +59,10 @@
 +++
 ##### Überlegungen und Bewertung
 +++
-Kriterium   | Bewertung
-------------------------
-Ergonomie   | @fa[check]
-Usability   | @fa[check]
-UX          | @fa[check]
-Zweck       | @fa[times]
+
+Kriterium   | Bewertung     |  
+------------------------    |  
+Ergonomie   | @fa[check]    |  
+Usability   | @fa[check]    |  
+UX          | @fa[check]    |  
+Zweck       | @fa[times]    |  
