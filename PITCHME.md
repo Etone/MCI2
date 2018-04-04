@@ -16,8 +16,13 @@
 ---
 ### Dominator Gun
 +++
-#### Video
+#### Videos
++++
+##### Aufnahme der Waffe 
 ![Video](https://www.youtube.com/embed/E-hGtr92TSA?start=474&end=494&iv_load_policy=3)
++++
+##### Zielen mit der Waffe
+![Video](https://www.youtube.com/embed/E-hGtr92TSA?start=682&end=691&iv_load_policy=3)
 +++
 #### Beschreibung
 +++
@@ -43,23 +48,20 @@
 - Gibt Auskunft für Ziele
 +++
 ##### Techniken
-- Erkennung des Nutzers
-    - Keine explizite Erklärung, aber möglich durch Fingerabdruck
-- Erkennung des Ziels
-    - Gesichtserkennung per Zielen der Waffe
-    - Bewertung des Crime Coefficient, daraus Wechsel des Modus  
++++
+###### Erkennung des Nutzers
+- Keine explizite Erklärung, aber möglich durch Fingerabdruck
++++
+###### Erkennung des Ziels
+- Gesichtserkennung per Zielen der Waffe
+- Bewertung des Crime Coefficient, daraus Wechsel des Modus  
 **SciFi Waffe, kaum direkte Interaktion mit Interface**
 +++
 ##### Überlegungen und Bewertung
 +++
-###### Erkennung des Nutzers
-- Regulieren von Waffen im Umlauf
-- Datenbank "Wer besitzt welche Waffe"
-- Verhindert Missnutzung wie Überfälle, Amokläufe, ...
-+++
-###### Interfaceprojektion
-- AR-Brille ohne Hardware, ähnlich Hololens
-- Usability durch Eye-Tracking ungewohnt
-+++
-###### Stimmausgabe
-- In-Ear Kopfhörer + Sprachassistent
+Kriterium   | Bewertung
+------------------------
+Ergonomie   | @fa[check]
+Usability   | @fa[check]
+UX          | @fa[check]
+Zweck       | @fa[times]
