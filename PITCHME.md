@@ -59,10 +59,17 @@
 +++
 ##### Überlegungen und Bewertung
 +++
-
 Kriterium   | Bewertung     |  
-------------|:-----------:  |  
+------------|:-------------:|  
 Ergonomie   | @fa[check]    |  
 Usability   | @fa[check]    |  
 UX          | @fa[check]    |  
 Zweck       | @fa[times]    |  
++++
+##### Diskussion
+Vorteile    | Nachteile     |  
+------------|---------------|  
+Waffenregister                      | Falsche Bewertung    |  
+Reduktion der Kriminalität          | Nicht vollautomatisch|  
+Missnutzen der Waffe nicht möglich  | Ethisch nur schwer vertrettbar |  
+Paralyzer-Mode                      | Datenschutz           |
