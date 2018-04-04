@@ -61,7 +61,7 @@
 +++
 
 Kriterium   | Bewertung     |  
-------------------------    |  
+------------|:-----------:  |  
 Ergonomie   | @fa[check]    |  
 Usability   | @fa[check]    |  
 UX          | @fa[check]    |  
