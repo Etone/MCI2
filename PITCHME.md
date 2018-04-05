@@ -102,13 +102,11 @@ Paralyzer-Mode                      | Datenschutz           |
 - Wenn man das Haus verlässt, zeitlich einstellbar, z.B. im Schlaf
 +++
 ##### Gerätebschreibung
-+++
 - Fliegendes Hologram, das einem folgt
 - Aussehen kann verändert werden, in diesem Fall als Quallenartiges Maskottchen
 ![image](https://user-images.githubusercontent.com/23435018/38270619-36e36486-3784-11e8-9642-3c127e167740.png)
 +++
 ##### Techniken
-+++
 - Interaktionen sind sprachgesteuert
 - Anzeigen im Raum durch Hologramme
 - Wie Amazon Echo mit mehr Möglichkeiten
@@ -136,11 +134,9 @@ Zweck       | @fa[check]    |
 #### Beschreibung
 +++
 ##### Tasks
-+++
 - Aufrufen eines Holograms, funktioniert wie ein Bildschirm
 +++
 ##### Gerätebschreibung
-+++
 - viereckige, silberne Armbanduhr
     - Tasten an jeder Ecke
     - schwarzes Feld, dient als Projektor
@@ -152,7 +148,6 @@ Zweck       | @fa[check]    |
 ![image](https://user-images.githubusercontent.com/23435018/38268887-7a67c6c0-377f-11e8-9277-081606e579a5.png)
 +++
 ##### Techniken
-+++
 - Aufruf des Hologramms erfolgt über Tastendruck auf der oberen rechten und untern linken Ecke
 - Steuerung über Tasten oder über "Touch"
 ![image](https://user-images.githubusercontent.com/23435018/38269310-6ba3c8cc-3780-11e8-947e-5921cb705542.png)
@@ -178,12 +173,10 @@ Zweck       | @fa[check]    |
 #### Beschreibung
 +++
 ##### Tasks
-+++
 - Aufklappen zur Aktivierung
 - Auswählen des Outfits
 +++
 ##### Gerätebschreibung
-+++
 - Normales Schmuckkistchen von außen  
 ![image](https://user-images.githubusercontent.com/23435018/38269647-5d117b14-3781-11e8-897c-f644979a0a4d.png)
 +++
@@ -193,7 +186,6 @@ Zweck       | @fa[check]    |
 - Verwandelt die Klamotten des Nutzers in das ausgewählte Outfit. Kann auch unterwegs benutzt werden.
 +++
 ##### Techniken
-+++
 - Aufklappen zur Aktivierung
 - Auswahl des Outfits per Touchgesten
 - Outfits vermutlich selbst erstellbar, wird nicht explizit gezeigt  
@@ -214,3 +206,44 @@ Zweck       | @fa[check]    |
     - Friseur
     - Kaufhaus
 ---
+### Auto
++++
+#### Video
++++
+![Video](https://www.youtube.com/embed/mivgkPAPEeo?start=165&end=169&iv_load_policy=3)
++++
+#### Beschreibung
++++
+##### Tasks
+- Verändern der Informationsanzeige
++++
+##### Gerätebschreibung
+- Display auf Windschutzscheibe
+    - zeigt verschiedene Daten
+    - Auch Medien wie Bilder vom Tatort
+    - Karte der Umgebung  
+![image](https://user-images.githubusercontent.com/23435018/38269846-f8d25a5a-3781-11e8-8248-4c0279576f41.png)
++++
+- virtuelle Tasten
+    - TV, Telefon, Messages, Chat, Favoriten, Verlauf, Home, Lock
+- Modus des Fahrzeugs  
+![image](https://user-images.githubusercontent.com/23435018/38270218-fe254958-3782-11e8-924c-c5db74c4e67a.png)
++++
+##### Techniken
+- Per Touchscreen
+- Gestensteuerung
+- Manuelles fahren des Autos
++++
+##### Überlegungen und Bewertung
++++
+Kriterium   | Bewertung     |  
+------------|:-------------:|  
+Ergonomie   | @fa[times]    |  
+Usability   | @fa[check]    |  
+UX          | @fa[times]    |  
+Zweck       | @fa[check]    | 
++++
+##### Diskussion
+![image](http://www.blogcdn.com/de.engadget.com/media/2013/09/garminhead-updisplay-554x335.jpg)
++++
+![image](https://media.ed.edmunds-media.com/tesla/model-x/2017/ot/2017_tesla_model-x_LIFE2_ot_209172_1280.jpg)
