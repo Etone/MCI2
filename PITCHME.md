@@ -141,20 +141,20 @@ Zweck       | @fa[check]    |
 +++
 ##### Gerätebschreibung
 +++
-- In Form einer Armbanduhr, die an jeder Ecke eine Taste hat. Ist Silbern, hat ein Schwarzes Quadrat in der Mitte, vermutlich um das Hologram zu projizieren  
+- viereckige, silberne Armbanduhr
+    - Tasten an jeder Ecke
+    - schwarzes Feld, dient als Projektor
 ![image](https://user-images.githubusercontent.com/23435018/38268658-f7ae463c-377e-11e8-94a4-a8073c12048a.png)
 +++
 - transparentes Hologramm direkt über der Uhr
-- Uhr zeigt verschiedene Daten, z.B. Hue, Crime Coefficient, Täterprofil, ...
-- Informationen können auf anderen Uhren widergespiegelt/gescreenshared werden  
+- verschiedene Daten, Täterprofil, ...
+- Synchronisation mit anderen Uhren
 ![image](https://user-images.githubusercontent.com/23435018/38268887-7a67c6c0-377f-11e8-9277-081606e579a5.png)
-- Kann auch Telefonate durchführen
 +++
 ##### Techniken
 +++
 - Aufruf des Hologramms erfolgt über Tastendruck auf der oberen rechten und untern linken Ecke
 - Steuerung über Tasten oder über "Touch"
-    - verschiedene Programme mit verschiedenen Daten  
 ![image](https://user-images.githubusercontent.com/23435018/38269310-6ba3c8cc-3780-11e8-947e-5921cb705542.png)
 +++
 ##### Überlegungen und Bewertung
