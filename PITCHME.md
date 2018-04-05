@@ -90,7 +90,7 @@ Paralyzer-Mode                      | Datenschutz           |
 ##### Tasks
 +++
 ##### Aktivierung
-- Durch Wecker oder durch Rükkehr in Haus
+- Durch Wecker oder durch Rückkehr in Haus
 +++
 ##### Wenn aktiv
 - Termine auflisten
@@ -163,6 +163,10 @@ Zweck       | @fa[check]    |
 +++
 ##### Diskussion
 ![image](https://cdn2.techadvisor.co.uk/cmsdata/features/3497103/best_smartwatches_thumb800.png)
++++
+<blockquote class="twitter-video" data-lang="de"><p lang="en" dir="ltr">Introducing Virtual Wearables <a href="https://t.co/LPvknKBlnO">pic.twitter.com/LPvknKBlnO</a></p>&mdash; Keiichi Matsuda (@keiichiban) <a href="https://twitter.com/keiichiban/status/976850288949809154?ref_src=twsrc%5Etfw">22. März 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ---
 ### Garderobe
 +++
@@ -230,7 +234,7 @@ Zweck       | @fa[check]    |
 ##### Techniken
 - Per Touchscreen
 - Gestensteuerung
-- Manuelles fahren des Autos
+- Manuelles Fahren des Autos
 +++
 ##### Überlegungen und Bewertung
 +++
