@@ -168,3 +168,49 @@ Zweck       | @fa[check]    |
 +++
 ##### Diskussion
 ![image](https://cdn2.techadvisor.co.uk/cmsdata/features/3497103/best_smartwatches_thumb800.png)
+---
+### Garderobe
++++
+#### Video
++++
+![Video](https://www.youtube.com/embed/qmfknwTed6c?start=250&end=260&iv_load_policy=3)
++++
+#### Beschreibung
++++
+##### Tasks
++++
+- Aufklappen zur Aktivierung
+- Auswählen des Outfits
++++
+##### Gerätebschreibung
++++
+- Normales Schmuckkistchen von außen  
+![image](https://user-images.githubusercontent.com/23435018/38269647-5d117b14-3781-11e8-897c-f644979a0a4d.png)
++++
+- Nach Aufklappen zweitiliger Bildschirm
+    - Unten Bedienung druch Touch
+    - Oben Vorschau
+- Verwandelt die Klamotten des Nutzers in das ausgewählte Outfit. Kann auch unterwegs benutzt werden.
++++
+##### Techniken
++++
+- Aufklappen zur Aktivierung
+- Auswahl des Outfits per Touchgesten
+- Outfits vermutlich selbst erstellbar, wird nicht explizit gezeigt  
+![image](https://user-images.githubusercontent.com/23435018/38269561-30020e68-3781-11e8-9473-41c9564676ab.png)
++++
+##### Überlegungen und Bewertung
++++
+Kriterium   | Bewertung     |  
+------------|:-------------:|  
+Ergonomie   | @fa[check]    |  
+Usability   | @fa[times]    |  
+UX          | @fa[check]    |  
+Zweck       | @fa[check]    | 
++++
+##### Diskussion
+- Stilberatung
+    - Online Shops
+    - Friseur
+    - Kaufhaus
+---
