@@ -221,11 +221,9 @@ Zweck       | @fa[check]    |
 - Display auf Windschutzscheibe
     - zeigt verschiedene Daten
     - Auch Medien wie Bilder vom Tatort
-    - Karte der Umgebung  
 ![image](https://user-images.githubusercontent.com/23435018/38269846-f8d25a5a-3781-11e8-8248-4c0279576f41.png)
 +++
-- virtuelle Tasten
-    - TV, Telefon, Messages, Chat, Favoriten, Verlauf, Home, Lock
+- virtuelle Tasten für Funktionen
 - Modus des Fahrzeugs  
 ![image](https://user-images.githubusercontent.com/23435018/38270218-fe254958-3782-11e8-924c-c5db74c4e67a.png)
 +++
