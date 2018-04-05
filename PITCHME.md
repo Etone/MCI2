@@ -88,22 +88,33 @@ Paralyzer-Mode                      | Datenschutz           |
 #### Beschreibung
 +++
 ##### Tasks
-- Aktivierung Weckergesteuert, oder wenn man in das Haus zurückkehrt
++++
+##### Aktivierung
+- Durch Wecker oder durch Rükkehr in Haus
++++
+##### Wenn aktiv
 - Termine auflisten
 - Wetterbericht zeigen
 - Auflisten von Kalorieneinnahme des gestrigen Tages, darauf basierend Essen vorschlagen und zubereiten
 - Raum holographisch verändern
-- Deaktivierung, wenn man das Haus verlässt, vermutlich auch zeitlich einstellbar
++++
+##### Deaktivierung
+- Wenn man das Haus verlässt, zeitlich einstellbar, z.B. im Schlaf
 +++
 ##### Gerätebschreibung
 +++
 - Fliegendes Hologram, das einem folgt
 - Aussehen kann verändert werden, in diesem Fall als Quallenartiges Maskottchen
+![image](https://user-images.githubusercontent.com/23435018/38270619-36e36486-3784-11e8-9642-3c127e167740.png)
 +++
 ##### Techniken
 +++
-- Alles sprachgesteuert. Man kann es sich als fliegende Alexa vorstellen, nur intelligenter und mit mehr Möglichkeiten/"Macht" (Essenszubereitung, Veränderung des Raumes, Hologramme, beweglich)  
-![image](https://user-images.githubusercontent.com/23435018/38270619-36e36486-3784-11e8-9642-3c127e167740.png)
+- Interaktionen sind sprachgesteuert
+- Anzeigen im Raum durch Hologramme
+- Wie Amazon Echo mit mehr Möglichkeiten
+    - beweglich
+    - Hologramme zur Informationsdarstellung
+    - Verändern der Einrichtung
 +++
 ##### Überlegungen und Bewertung
 +++
@@ -113,4 +124,5 @@ Ergonomie   | @fa[check]    |
 Usability   | @fa[check]    |  
 UX          | @fa[check]    |  
 Zweck       | @fa[check]    | 
-
++++
+![image](https://cdn-images-1.medium.com/max/575/1*KCgwTpY_oCf-Drjukilo-g.png)
