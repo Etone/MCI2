@@ -5,7 +5,7 @@
 - Anime, da dieser alle (noch so skurrilen) Interaktionen erlaubt
 - spielt in Japan des 22. Jahrhundert
     - futuristischer Stil
-    - dennoch realistisch Gehalten
+    - dennoch realistisch gehalten
 ---
 ## Interaktionen
 1. Dominator Gun
@@ -38,7 +38,7 @@
 - Sonst vorstellbar wie normale Pistole
 +++
 ###### Virutelles Interface
-- Auf Augen projeziert
+- Auf Augen projiziert
 - Karte der Umgebung mit "Paniklevel"
 - Momentaner Nutzer
 - Modus der Waffe
@@ -71,7 +71,7 @@ Vorteile    | Nachteile     |
 ------------|---------------|  
 Waffenregister                      | Falsche Bewertung    |  
 Reduktion der Kriminalität          | Nicht vollautomatisch|  
-Missnutzen der Waffe nicht möglich  | Ethisch nur schwer vertrettbar |  
+Missnutzen der Waffe nicht möglich  | Ethisch nur schwer vertretbar |  
 Paralyzer-Mode                      | Datenschutz           |
 
 ---
@@ -145,7 +145,7 @@ Zweck       | @fa[check]    |
 - transparentes Hologramm direkt über der Uhr
 - verschiedene Daten, Täterprofil, ...
 - Synchronisation mit anderen Uhren
-![image](https://user-images.githubusercontent.com/23435018/38268887-7a67c6c0-377f-11e8-9277-081606e579a5.png)
+![image](https://media.discordapp.net/attachments/185886870557687812/431513446903840775/unknown.png?width=1168&height=657)
 +++
 ##### Techniken
 - Aufruf des Hologramms erfolgt über Tastendruck auf der oberen rechten und untern linken Ecke
