@@ -185,7 +185,7 @@ Zweck       | @fa[check]    |
 ![image](https://user-images.githubusercontent.com/23435018/38269647-5d117b14-3781-11e8-897c-f644979a0a4d.png)
 +++
 - Nach Aufklappen zweitiliger Bildschirm
-    - Unten Bedienung druch Touch
+    - Unten Bedienung durch Touch
     - Oben Vorschau
 - Verwandelt die Klamotten des Nutzers in das ausgewählte Outfit. Kann auch unterwegs benutzt werden.
 +++
