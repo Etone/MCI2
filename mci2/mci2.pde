@@ -2,13 +2,13 @@ import de.voidplus.leapmotion.*; //<>//
 
 //TODO:
 /*
-  Geschwindigkeit
  Kollision mit Wand
- Target
+ −(2(n · v) n − v) Wo n = normalisierter Wandvector, v = direction
  Maximale Kollision / Reibung
- Hindernisse, Level
  ? Gesten swap Level usw.
+     + Wände nach Links, - Wände nach rechts
  ? Reset
+     + Wände = 1 oder bleiben, Regenrate Level
  */
 
 float TARGET_RAD = 37.5;
@@ -54,7 +54,6 @@ void draw() {
     } else {
       //update projectile pos
       ball.updatePosition();
-      
       ball.draw();
       checkGoal();
     }
